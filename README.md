@@ -1,5 +1,5 @@
 # Product Card | NUYsDev 🖥️
-## [Preview](https://rhr3032.github.io/nuysgallery/) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/pure-css-product-card/) | [UI Design](#)
 
 
 
