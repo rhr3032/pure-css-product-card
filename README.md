@@ -2,7 +2,9 @@
 ## [Preview](https://rhr3032.github.io/nuysgallery/) | [UI Design](#)
 
 
-<video src="./assets/main.mp4"></video>
+
+https://user-images.githubusercontent.com/89746277/227731854-4459feee-dd06-4687-b517-2db913652487.mp4
+
 
 ## About Mine
 ## Hello 👋🏻, I'm Raisul Hasan Rafi. A Full-Stack Web Developer. 
